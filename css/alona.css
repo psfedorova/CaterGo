@@ -157,9 +157,6 @@ a {
     box-shadow: 0 8px 24px rgba(0, 72, 94, 0.3);
 }
 
-.overflow-hidden {
-    overflow: hidden;
-}
 
 .icon-box {
     margin-bottom: 16px;
@@ -178,29 +175,13 @@ a {
     padding: 32px;
 }
 
-.full-height {
-    height: 100%;
-}
 
-.full-width {
-    width: 100%;
-}
-
-.center-text {
-    text-align: center;
-}
 
 .flex-1 {
     flex: 1;
 }
 
-.mb-none {
-    margin-bottom: 0;
-}
 
-.p-n {
-    padding: 0;
-}
 
 .gap4 {
     gap: 4px;
