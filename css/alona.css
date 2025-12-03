@@ -38,10 +38,15 @@ a {
 .font-h5 {
     font-size: 16px;
     font-weight: 500;
+    line-height: 1.6;
 }
 
 .font-h6 {
     font-size: 14px;
+}
+
+.font-icon {
+    font-size: 24px;
 }
 
 .text-primary-green {
@@ -204,6 +209,18 @@ a {
 
 .gap32 {
     gap: 32px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.mb32 {
+    margin-bottom: 32px;
+}
+
+.d-block {
+    display: block;
 }
 
 .btn-main,
