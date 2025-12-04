@@ -124,3 +124,8 @@ footer {
     transition: 0.2s ease;
 }
 
+.site-navbar a:hover {
+    color: #2c7a3f !important; 
+    transition: 0.2s ease;
+}
+
