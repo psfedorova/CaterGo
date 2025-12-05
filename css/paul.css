@@ -43,7 +43,7 @@ footer {
     line-height: 1.8;
 }
 
-@media (max-width: 769px) {
+@media (max-width: 768px) {
 
     .comparison-table th,
     .comparison-table td {
@@ -124,7 +124,7 @@ footer {
     transition: 0.2s ease;
 }
 
-@media (max-width: 769px) {
+@media (max-width: 768px) {
 
     .card-1 {
         margin-bottom: 24px;
