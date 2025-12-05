@@ -124,3 +124,32 @@ footer {
     transition: 0.2s ease;
 }
 
+@media (max-width: 768px) {
+
+    .card-1 {
+        margin-bottom: 24px;
+    }
+
+    #contact-form .col-lg-4 {
+        margin-bottom: 24px;
+    }
+
+    .content-padding {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .card-1 {
+        margin-bottom: 28px;
+    }
+
+    #contact-form .col-lg-4 {
+        margin-bottom: 28px;
+    }
+
+    .content-padding {
+        margin-top: 24px;
+    }
+}
