@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    let photos = ["images/owner.png", "images/girl1.png", "images/man.png", "images/girl2.png"];
+    let photos = ["images/owner.webp", "images/girl1.webp", "images/man.webp", "images/girl2.webp"];
     let names = ["Alex Thompson", "Maria Garcia", "David Kim", "Lisa Anderson"];
     let roles = ["Founder & CEO", "Head of Product", "Lead Developer", "Customer Success"];
     let descs = [
@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", function () {
         hamburgerBtn.addEventListener('click', openMenu);
         closeBtn.addEventListener('click', closeMenu);
 
-        mobileMenu.addEventListener('click', function(event) {
+        mobileMenu.addEventListener('click', function (event) {
             if (event.target === mobileMenu) {
                 closeMenu();
             }
